@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rury fatkhuri fazri
+- 👋 Hi, I’m rury fatkhuri fazri, i'm a self tought web programmer
 - 👀 I’m interested in web development especially frontend web development
 - 🌱 I’m currently mastering vue.js2
 - 💞️ I’m looking to collaborate in frontend world
