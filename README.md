@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatkhurifazri aka sfl4kes 
+- 👋 Hi, I’m @fatkhurifazri
 - 👀 I’m interested in web development especially frontend web development
 - 🌱 I’m currently mastering vue.js2
 - 💞️ I’m looking to collaborate in frontend world
