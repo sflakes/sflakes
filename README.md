@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rury fatkhuri fazri, i'm a self taught web programmer
 - 👀 I’m interested in web development especially frontend web development
-- 🌱 I’m currently mastering vue.js2
-- 💞️ I’m looking to collaborate in frontend world
+- 🌱 I’m currently mastering HTML, CSS, JAVASCRIPT
+- 💞️ I’m looking to collaborate in frontend world especialy vue.js dev
 - 📫 you can reach me on fatkhurifazri@gmail.com
 
 <!---
