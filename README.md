@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rury fatkhuri fazri, i'm a self taught web programmer
+- 👋 Hi, I’m rury fatkhuri fazri, i'm a self taught web programmer and Ui/Ux designer
 - 👀 I’m interested in web development especially frontend web development
 - 🌱 I’m currently mastering HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate in frontend world especialy vue.js dev
